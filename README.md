@@ -16,11 +16,11 @@ O objetivo é praticar a criação e execução de testes automatizados, documen
 
 | ID | Cenário | Objetivo |
 |---|---|---|
+| CT-000 | Acesso à tela de login | Verificar se a tela de login é carregada corretamente. |
 | CT-001 | Campos vazios | Verificar o comportamento do login sem preencher os campos obrigatórios. |
 | CT-002 | E-mail válido e senha inválida | Verificar o comportamento ao informar uma senha incorreta. |
 | CT-003 | E-mail inválido e senha válida | Verificar a validação de um endereço de e-mail inválido. |
 | CT-004 | Login com sucesso | Verificar o acesso com credenciais válidas. |
-| CT-005 | Acesso à tela de login | Verificar se a tela de login é carregada corretamente. |
 
 ## Estrutura do projeto
 
